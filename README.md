@@ -2,7 +2,7 @@
 <h3 align="center">I'm studying Computer Science at university and learning to be a developer.</h3>
 
 - 💻 I’m currently learning **C# and C++**
-- 🔭 I’m currently working on **desktop apps**
+- 🔭 I’m currently working on **Desktop Apps** and **Games**
 - 🎮 I'm interested in learning game development in **Unity or Unreal Engine**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shredrox&show_icons=true&theme=yeblu&locale=en" alt="shredrox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shredrox&show_icons=true&theme=yeblu&locale=en&layout=compact" alt="shredrox" /></p>
