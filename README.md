@@ -2,8 +2,8 @@
 <h3 align="center">I'm studying Computer Science at university and learning to be a developer.</h3>
 
 - 💻 I’m currently learning **C#, C++, HTML and CSS**
-- 🔭 I'm interested in learning **Web Development** (for full-time work) and **Game Development** (for personal projects) 
-- 🔭 I’m currently working on **Websites**, **Desktop Apps** and **Games**
+- 🔭 I'm interested in learning **Web Development**
+- 🔭 I’m currently working on **Websites**, **Desktop Apps**
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shredrox&show_icons=true&theme=yeblu&locale=en" alt="shredrox" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shredrox&show_icons=true&theme=yeblu&locale=en&layout=compact" alt="shredrox" /></p>
 
