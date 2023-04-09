@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihail!</h1>
 <h3 align="center">I'm studying Computer Science at university and learning to be a developer.</h3>
 
-- 💻 I’m currently learning **C#, HTML, CSS and JavaScript**
+- 💻 I’m currently learning **C#, HTML, CSS, JavaScript and React.JS**
 - 🔭 I'm interested in learning **Web Development**
 - 🔭 I’m currently working on **Websites** and **Desktop Apps**
 
