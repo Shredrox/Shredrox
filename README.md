@@ -3,6 +3,7 @@
 
 - 🔭 I'm learning **Web Development**
 - 🔭 I’m currently working on **Websites** and **Desktop Apps**
+- 📧 You can contact me at mihail.shterev11@gmail.com 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xthatmikey) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mihail-shterev-92b149254) 
