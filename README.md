@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihail!</h1>
-<h3 align="center">I'm studying Computer Science at university and learning to be a developer.</h3>
+<h3 align="center">I'm studying Computer Science at university.</h3>
 
 - 🔭 I'm learning **Web Development** (currently ReactJS)
 - 💻 I’m currently working on **Websites** and **Desktop Apps**
