@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihail!</h1>
 <h3 align="center">I'm studying Computer Science at university.</h3>
 
-- 🔭 I'm learning **Web Development** (currently ReactJS)
+- 🔭 I'm learning **Web Development** (currently ReactJS and ASP.NET)
 - 💻 I’m currently working on **Websites** and **Desktop Apps**
 - 📧 You can contact me at mihail.shterev11@gmail.com 
 
