@@ -7,7 +7,7 @@
 # 🌌 About Me:
 I'm a computer science student at TU Sofia and i'm constantly exploring the ever-evolving world of programming and software development. My journey through the fascinating realm of computer science has allowed me to experiment with a wide range of technologies, tackle diverse projects, and continuously expand my knowledge.
 
-- 🔭 I'm learning **Web Development** (currently NextJS, ReactJS and ASP.NET)
+- 🔭 I'm learning **Web Development** (currently NextJS, Redux and ASP.NET)
 - 💻 I’m currently working on **Websites** and **Desktop Apps**
 - 📧 You can contact me at mihail.shterev11@gmail.com 
 
