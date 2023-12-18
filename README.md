@@ -19,3 +19,4 @@ I'm a computer science student at TU Sofia and i'm constantly exploring the ever
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shredrox&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+ 
